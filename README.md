@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I'm currently working for Banco Santander at Exis-TI(Indra).
+- 🔭 I'm currently working as Frontend Senior Developer for Banco Santander at Exis-TI(Indra).
 - 🌱 I’m currently learning cybersecurity. 
 - 📫 How to reach me: oscarplumariegacebo@gmail.com
   
